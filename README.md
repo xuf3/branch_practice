@@ -13,4 +13,8 @@ These are a few of my favorite things:
 - Milk
 =======
 - cake
+<<<<<<< HEAD
+>>>>>>> new
+=======
+- T
 >>>>>>> new
